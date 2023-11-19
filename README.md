@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React Native , Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Salama10/Mohamed-Salama10](https://github.com/Mohamed-Salama10/Mohamed-Salama10)
+- 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Salama10/Mohamed-Salama10](https://github.com/Mohamed-Salama10)
 
 - 💬 Ask me about **react**
 
